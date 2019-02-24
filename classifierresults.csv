@@ -1,0 +1,17 @@
+,True Image Class,Predicted Image Class,Score,Truth,Image Name
+0,Slicks,Slicks,0.83,TP,215-45ZR17-R1S.jpg
+1,Slicks,Slicks,0.92,TP,61R34jRK7SL._SX425_.jpg
+2,Slicks,Slicks,0.919,TP,download.jpg
+3,Slicks,Slicks,0.92,TP,ETCMS_Tire_Michelin-306818-TL-PORSCHE-CUP-N2-COMP_0030_thumb_tyre.png
+4,Slicks,Slicks,0.919,TP,gdy-2000_w_ml.jpg
+5,Slicks,Slicks,0.92,TP,GDYD2533.jpg
+6,Slicks,Slicks,0.92,TP,michelin-race-tire.jpg
+7,Slicks,Slicks,0.92,TP,s-l225.jpg
+8,Treaded,Treaded,0.918,TN,453fa6be-1813-40f1-878d-966f18c334d7.jpg
+9,Treaded,Treaded,0.918,TN,download (2).jpg
+10,Treaded,Treaded,0.878,TN,download.jpg
+11,Treaded,Treaded,0.859,TN,LionSport.jpg
+12,Treaded,Treaded,0.865,TN,P3110025-1024x768.jpg
+13,Treaded,Treaded,0.855,TN,summer-sport-tires-proxes-r1r.jpg
+14,Treaded,Treaded,0.908,TN,test1.jpg
+15,Treaded,Treaded,0.92,TN,WinterContact TS 850 P Taraxagum.jpg
